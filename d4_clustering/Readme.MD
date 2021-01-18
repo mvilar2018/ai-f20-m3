@@ -1,13 +1,11 @@
 # Clustering - Machine Learning
 
-![alt text](https://pbs.twimg.com/media/D8Ud_iFVUAA_mr4.jpg)
-
 The homework for today is split into two parts:
 - Partitional Clustering 
 - Hierarchical Clustering
 
 # 01 Partitional Clustering  (K-Means)
-Read the associated [paper](https://drive.google.com/file/d/1vOKyDRe6mIBTFhdq8d_PfQSfqz_H5dWL/view) and review the [class slides](https://docs.google.com/presentation/d/1h4PLEhmDoN6WmCGzra40zyIYP9O5FqWTICJMvy_YAl4/edit). Additionally, you have a functional demo of kmeans working [here](https://github.com/jcllobet/akademy_batch_2/blob/master/4th_week/1_monday/exercises/02.%20Partitional%20Algorithms/plot_kmeans_digits.ipynb) as well as a [guided notebook.](https://github.com/jcllobet/akademy_batch_2/blob/master/4th_week/1_monday/exercises/02.%20Partitional%20Algorithms/KMeans_Guided_Notebook.ipynb). Inside **exercises> 01 Partitional Clustering**  
+Read the associated [paper](https://drive.google.com/file/d/1vOKyDRe6mIBTFhdq8d_PfQSfqz_H5dWL/view) and review the class slides. Inside **exercises> 01 Partitional Clustering**  
 - *exercise_01_looking_for_clusters_visually.ipynb
 - *exercise_02_clustering_2D_points.ipynb
 - *exercise_03_inspect_your_clustering.ipynb
