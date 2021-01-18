@@ -1,13 +1,9 @@
 # Machine Learning Practice
 
-![alt text](https://pbs.twimg.com/media/D8Ud_iFVUAA_mr4.jpg)
-
 This repository contains a series of exercises for practicing your Machine Learning skills, under the form of self-correcting [Jupyter](https://jupyter.org/) notebooks.
 
 - Associated examples can be found in the [Machine Learning Handbook](https://github.com/bpesquet/machine-learning-handbook) repository.
-- Class slides are available [here](https://docs.google.com/presentation/d/1OaYTXepuhoJFtB-Vq6SrHEXLPlsnOc0Nn9npx_lz500/edit?usp=sharing)
-- Make sure to use [slack](https://akademyai.slack.com/) in the #Barcelona_1 Channel
-- Please try to work with you **assigned pair_programming partners** assigned during the week. 
+- Please try to work with you **assigned pair_programming partners** today. 
 
 ## Homework for Today
 - Livecoding Demo
